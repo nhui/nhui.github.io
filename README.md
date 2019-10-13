@@ -1,2 +1,2 @@
 # nhui.github.io
-User website.
+Personal website created with Gatsby.

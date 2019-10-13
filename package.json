@@ -1,0 +1,28 @@
+{
+  "name": "nathan-hui-website",
+  "version": "0.1.0",
+  "description": "Personal website.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gatsby build && gh-pages -d public -b master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhui/nhui.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhui/nhui.github.io/issues"
+  },
+  "homepage": "https://github.com/nhui/nhui.github.io#readme",
+  "dependencies": {
+    "gatsby": "^2.15.36",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
