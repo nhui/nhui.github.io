@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/index.js"],"names":[],"mappings":"0FAAA,2BACe,4BACX","file":"component---src-pages-index-js-6629d8472a442cda27fc.js","sourcesContent":["import React from \"react\"\r\nexport default () => (\r\n    <h1>Hello, I'm Nathan!</h1>\r\n)"],"sourceRoot":""}
